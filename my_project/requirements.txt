@@ -1,3 +1,6 @@
 # Add all your Python dependencies here, e.g.,
+# Add all your Python dependencies here, e.g.,
 pytest
 flake8
+pylint
+
